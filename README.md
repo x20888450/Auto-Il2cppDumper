@@ -3,6 +3,10 @@ Il2CppDumper without Magisk/Zygisk, dump il2cpp data at runtime, can bypass prot
 
 This project is based on BrianGIG [Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper) which I continue to maintain it
 
+# NO support
+
+Since many games are using many different protections and encryptions, there will be no help & support of this project, therefore the issue section is closed. Do not under any circumstances try to reach me privately or create unrelated issues on my other projects.
+
 # How to use
 Download pre-compiled libs [HERE](https://github.com/AndnixSH/Auto-Il2cppDumper/releases) and follow steps below
 
